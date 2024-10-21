@@ -19,7 +19,7 @@ I specialize in developing scalable web applications and have a keen interest in
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nikhil07singh/)
-- [Personal Website](https://nikhil05singh.github.io/My_portfolio-main/)
+- [Portfolio](https://nikhil05singh.github.io/My_portfolio-main/)
 
 ## 🎯 Goals for 2024
 - Contribute to open-source projects
